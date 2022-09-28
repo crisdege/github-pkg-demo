@@ -1,6 +1,6 @@
 {
   "name": "@crisdege/github-pkg-demo",
-  "repository": {"url": ""},
+  "repository": {"url": "git://github.com/crisdege/github-pkg-demo.git"},
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
